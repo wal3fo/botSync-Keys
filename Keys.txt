@@ -2,6 +2,6 @@
     {
         "Name": "The Dungeon",
         "Licence": "131d76649571f6bc484fa370752c9e9d",
-        "Until": (datetime.now() + timedelta(days=365)).strftime("%Y-%m-%dT%H:%M:%S")  # Valid for 1 year
+        "Until": "Lifetime"
     },
 ]
