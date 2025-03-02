@@ -4,9 +4,4 @@
         "License": "131d76649571f6bc484fa370752c9e9d",
         "Until": "Lifetime"
     },
-    {
-        "Name": "Power Factory",
-        "License": "6125fceb7553a81818386a75e67f4d5a",
-        "Until": "Lifetime"
-    },
 ]
